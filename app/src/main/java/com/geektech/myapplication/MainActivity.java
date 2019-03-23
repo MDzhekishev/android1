@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 textView.setText("HI");
                 Log.d("mylog", "кнопка нажата");
-
+// button added
             }
         });
     }
